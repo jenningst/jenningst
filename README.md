@@ -1,6 +1,6 @@
 ### Hi, I'm Troy 👋🏼 🧑🏻‍💻
 
-I am an aspiring data scientist who is passionate leveraging data and machine learning to build better products and building community. I primarily work in Python but enjoy popular technologies including ReactJS, APIs, GraphQL, and streaming applications. My interests are in "full-stack" machine learning -- "model to customer" in Natural Language Processing (NLP) and how to leverage my product background to help organizations effectively implement data into their products and processes.
+I am an aspiring data scientist who is passionate leveraging data and machine learning to build better products and building community. I primarily work in Python but enjoy popular technologies including ReactJS, APIs, GraphQL, and streaming applications. My interests are in end-to-end machine learning model deployment with a focus on Natural Language Processing (NLP) and transfer learning using state-of-the-art methods/models.
 
 - 👯 I’m looking to collaborate on classical and deep-learning-based approaches to NLP to help "muscle memory" and repetitions with common use cases
 - 🤝 I love helping to build others up and would love to contribute to additional community-building projects outside my graduate program
