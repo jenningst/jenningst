@@ -4,7 +4,7 @@ I am a machine learning engineer who is passionate leveraging data and machine l
 
 - 👯 I’m looking to collaborate on classical and deep-learning-based approaches to NLP to help "muscle memory" and repetitions with common use cases
 - 🤝 I love helping to build others up and would love to contribute to additional community-building projects outside my graduate program
-- 👀 I'm looking for opportunities where I can blend modeling, engineering, and product-sense to build high-impact solutions
+- 👀 Always looking for opportunities where I can blend modeling, engineering, and product-sense to build high-impact solutions
 
 Contact me!
 <div id="badges">
