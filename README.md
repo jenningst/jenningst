@@ -1,6 +1,6 @@
 ### Hi, I'm Troy 👋🏼 🧑🏻‍💻
 
-I am a machine learning engineer who is passionate leveraging data and machine learning to build better products and building community. I primarily work in Python but enjoy popular technologies including ReactJS, APIs, GraphQL, and streaming applications. My interests are in end-to-end machine learning model deployment with a focus on Natural Language Processing (NLP) and transfer learning using state-of-the-art methods/models.
+I am a machine learning engineer who is passionate leveraging data and machine learning to build better products and building community. I'm interested in end-to-end machine learning model deployment with a focus on NLP and computer vision using transformers.
 
 - 👯 I’m always on the lookout for possible project collaboration in NLP and CV projects
 - 🤝 I'm a "build-as-you-grow" type who is passionate about helping others hone their craft in data science and machine learning
